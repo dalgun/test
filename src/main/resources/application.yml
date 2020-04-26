@@ -25,6 +25,3 @@ spring:
       settings:
         trace: false
         web-allow-others: false
-
-
-출처: https://blog.geun.kr/94 [Geun`s Page]
